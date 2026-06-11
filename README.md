@@ -311,14 +311,14 @@ kids_cafe_project/
 │       ├── child_education_facilities.xlsx
 │       └── kids_cafe_facilities.xlsx
 │
-├── notebooks/
+├── notebook/
 │   ├── README.md
 │   ├── 01_kmeans.ipynb
 │   ├── 02_lscp.ipynb
 │   ├── 03_location_index.ipynb
 │   └── 04_final_candidate_analysis.ipynb
 │
-├── images/
+├── image/
 │   ├── README.md
 │   ├── kmeans_cluster_map.png
 │   ├── lscp_result_map.png
